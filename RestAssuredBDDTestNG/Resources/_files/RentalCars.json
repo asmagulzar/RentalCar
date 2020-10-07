@@ -1,0 +1,107 @@
+{
+"Car": [{
+		"make": "Audi",
+		"model": "A7",
+		"vin": "09AGHY64352JITEG98K",
+		"metadata": {
+			"Color": "Black",
+			"Notes": "Scratches on the front side of the car"
+		},
+		"perdayrent": {
+			"Price": 140,
+			"Discount": 15
+		},
+		"metrics": {
+			"yoymaintenancecost": 2190.76,
+			"depreciation": 2256.43,
+			"rentalcount": {
+				"lastweek": 4,
+				"yeartodate": 221
+			}
+		}
+	},
+	{
+		"make": "Tesla",
+		"model": "X",
+		"vin": "09AGHY652JITEG98K",
+		"metadata": {
+			"Color": "Blue",
+			"Notes": "Scratches on the back side of the car"
+		},
+		"perdayrent": {
+			"Price": 240,
+			"Discount": 10
+		},
+		"metrics": {
+			"yoymaintenancecost": 1590.76,
+			"depreciation": 2256.43,
+			"rentalcount": {
+				"lastweek": 4,
+				"yeartodate": 221
+			}
+		}
+	},
+	{
+		"make": "BMW",
+		"model": "G3",
+		"vin": "0Y64352JITEG98K",
+		"metadata": {
+			"Color": "Black",
+			"Notes": "Scratches on the front side of the car"
+		},
+		"perdayrent": {
+			"Price": 140,
+			"Discount": 15
+		},
+		"metrics": {
+			"yoymaintenancecost": 1290.76,
+			"depreciation": 2211.43,
+			"rentalcount": {
+				"lastweek": 3,
+				"yeartodate": 121
+			}
+		}
+	},
+	{
+		"make": "Tesla",
+		"model": "S",
+		"vin": "09AGHY64378DS98K",
+		"metadata": {
+			"Color": "Blue",
+			"Notes": "Scratches on all sides of the car"
+		},
+		"perdayrent": {
+			"Price": 140,
+			"Discount": 15
+		},
+		"metrics": {
+			"yoymaintenancecost": 2100.76,
+			"depreciation": 2256.43,
+			"rentalcount": {
+				"lastweek": 7,
+				"yeartodate": 221
+			}
+		}
+	},
+	{
+		"make": "SantaFe",
+		"model": "Sports",
+		"vin": "067564352JITEG98K",
+		"metadata": {
+			"Color": "Black",
+			"Notes": "Scratches on the front side of the car"
+		},
+		"perdayrent": {
+			"Price": 190,
+			"Discount": 50
+		},
+		"metrics": {
+			"yoymaintenancecost": 3290.76,
+			"depreciation": 2756.43,
+			"rentalcount": {
+				"lastweek": 8,
+				"yeartodate": 91
+			}
+		}
+	}]
+}

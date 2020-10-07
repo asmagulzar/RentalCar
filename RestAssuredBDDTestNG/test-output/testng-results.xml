@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3198" started-at="2020-10-07T10:32:09 EDT" finished-at="2020-10-07T10:32:12 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3198" started-at="2020-10-07T10:32:09 EDT" finished-at="2020-10-07T10:32:12 EDT">
+      <class name="StepDefinition.RentalCarTC">
+        <test-method status="PASS" signature="Setup()[pri:1, instance:StepDefinition.RentalCarTC@5bfbf16f]" name="Setup" duration-ms="1783" started-at="2020-10-07T10:32:09 EDT" finished-at="2020-10-07T10:32:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="PrintBlueTesla()[pri:2, instance:StepDefinition.RentalCarTC@5bfbf16f]" name="PrintBlueTesla" duration-ms="591" started-at="2020-10-07T10:32:11 EDT" finished-at="2020-10-07T10:32:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintBlueTesla -->
+        <test-method status="PASS" signature="LowestPerDayRent()[pri:3, instance:StepDefinition.RentalCarTC@5bfbf16f]" name="LowestPerDayRent" duration-ms="288" started-at="2020-10-07T10:32:12 EDT" finished-at="2020-10-07T10:32:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LowestPerDayRent -->
+        <test-method status="PASS" signature="HighestRevenueCar()[pri:4, instance:StepDefinition.RentalCarTC@5bfbf16f]" name="HighestRevenueCar" duration-ms="483" started-at="2020-10-07T10:32:12 EDT" finished-at="2020-10-07T10:32:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HighestRevenueCar -->
+      </class> <!-- StepDefinition.RentalCarTC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
